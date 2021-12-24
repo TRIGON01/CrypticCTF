@@ -1,24 +1,5 @@
-# git-colour
+Monet’s Obsession With Colour
 
-Welcome to Git. 
+Colour may be the most important tool artists can use to express themselves, share their beliefs, convey a message and transform viewers intellectually and emotionally. Claude Monet exclaimed, “Colour is my day long obsession, joy and torment.” The artist repeatedly painted the same subject at different times of day and in different weather conditions. One of his best known series is “The Rouen Cathedral”. He captured the facade under different lighting conditions. They are excellent examples of how light affects color on subjects. He reworked these paintings in his studio, as he explored a myriad examples of colours and moods.
 
-Git, in simple words, is a tool that helps you put your code online, and allow different people to contribute to it.
-
-Git is not restricted to simply that. Git is also essential in Version Control.
-
-The scope of this CTF is to simply let you all know the very basics of git and it's combination with crytography.
-A useful github website hosting feature is also used.
-
-If you are reading this, know that, there has already been a "commit" made. Commits are checkpoints. They are the "save" feature of a game.
-
-When you commit your project, the project will take a snapshot of everything you have and store it. Breaking it down to the simplest core way, git is a collection of a lots of commits. 
-
-When committing we have an essential part of the commit known as the "commit message". Since this sentance is visible to you, there is already a commit made with the message as "Data Recovery". 
-
-You can give any commit message, but, on a real project your commit message will be expected to describe briefly and professionally of the changes you have made in the commit with respect to the previous commit.
-
-This sentance will account for the last commit in the master branch. Hence forth we will be looking into branching. This master branch will be branching out into two branches, "Monet" and "Van-Gogh". 
-
-They will contain all the sentences that can be seen above but will differ in their commits henceforth. Branches are used for adding a feature to a project. However, the branches now created will simply be an extension of the master branch.
-
-Note that in a real project, the actual project resides in the master branch. Other branches are used for testing purposes and to add features or remove bugs. 
+When giving advice to artists he wrote, “When you go out to paint, try to forget what objects you have before you, a tree, a house, a field or whatever. Merely think here is a little square of blue, here an oblong of pink, here a streak of yellow, and paint it just as it looks to you, the exact colour and shape.”
