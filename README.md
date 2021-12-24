@@ -1,4 +1,3 @@
-“Black is like a broken vessel, which is deprived of the capacity to contain anything.”
--Leonardo da Vinci
+Our world is awash with colour. In a single day, we see thousands of different hues that our brains interpret as robin’s egg blue, fuchsia, or olive drab, to name a few. Nature employs colour with unparalleled artistry, making sunsets more breathtaking, flowers more exquisite, and wildlife more captivating. 
 
-https://trigon01.github.io/CrypticCTF-website/
+Flag (1/4)-> acm{_h1st0ry_} found.
